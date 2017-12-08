@@ -15,7 +15,7 @@ function count() {
 
     document.getElementById("zemo").innerHTML = --sekund;
     document.getElementById("stojko").innerHTML = minut;
-    if (sekund == 1) {
+    if (sekund == 0) {
         sekund = 60;
         minut = minut - 1;
     }
