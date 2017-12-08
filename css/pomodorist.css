@@ -1,0 +1,86 @@
+.box p {
+
+    display: inline-block;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-family: "Tangerine", serif;
+    font-size: 400%;
+    font-weight: bold;
+}
+
+#opa {
+    margin-left: 10px;
+    background-color: #fe2e2e;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+
+
+#opa1 {
+
+    margin-left: 50px;
+    background-color: #fe2e2e;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+#zemo {
+    color: #fe2e2e;
+    font-size: 200%;
+    margin-left: 40px;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#stojko {
+    color: #fe2e2e;
+    font-size: 200%;
+    margin-left: 55px;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+body {
+
+    background-color: #fe2e2e;
+    background-image: url("../festival.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#opa2 {
+    margin-left: 50px;
+    background-color: #fe2e2e;
+    cursor: pointer;
+    color: #FFFFFF;
+}
+
+#container {
+    background-color: Turquoise;
+    width: 280px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    border-color: #FFFFFF;
+    border-style: solid;
+    background-color: #FEEECD;
+}
+
+#space {
+    color: #fe2e2e;
+    font-size: 250%;
+    margin-left: 35px;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-style: italic;
+    font-weight: bold;
+}
